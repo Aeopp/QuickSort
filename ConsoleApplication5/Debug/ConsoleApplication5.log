@@ -1,0 +1,3 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\irmxj\source\Repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(28): warning C4715: 'Partition': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication5.vcxproj -> C:\Users\irmxj\source\Repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
